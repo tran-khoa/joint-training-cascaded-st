@@ -1,0 +1,7 @@
+share_decoder_input_output_embed: True
+dropout: 0.1
+encoder_layers: 12
+decoder_layers: 6
+use_relpos: False
+load_pretrained_encoder_from: /work/smt2/vtran/datasets/mustc/mustc_de_asr_transformer_s.pt
+load_pretrained_decoder_from: /work/smt2/vtran/datasets/mustc/mustc_de_asr_transformer_s.pt

@@ -1,0 +1,9 @@
+share_decoder_input_output_embed: True
+dropout: 0.1
+encoder_layers: 12
+decoder_layers: 6
+ctc_loss: False
+ignore_ctc: True
+pretrained_encoder_reset_ctc: True
+load_pretrained_encoder_from: /work/smt4/gao/tran/speech_translation/trained_models/asr.mustc.en-de/fair.ctc.ft2021.lr1e-4.noctc/checkpoints/checkpoint_best.pt
+load_pretrained_decoder_from: /work/smt4/gao/tran/speech_translation/trained_models/asr.mustc.en-de/fair.ctc.ft2021.lr1e-4.noctc/checkpoints/checkpoint_best.pt

@@ -1,0 +1,2 @@
+share-decoder-input-output-embed: True
+dropout: 0.1

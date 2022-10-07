@@ -1,0 +1,6 @@
+share_decoder_input_output_embed: True
+dropout: 0.1
+encoder_layers: 12
+decoder_layers: 6
+ctc_loss: True
+ignore_ctc: False

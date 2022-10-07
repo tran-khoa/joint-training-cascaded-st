@@ -1,0 +1,8 @@
+torch == 1.7.1
+torchaudio==0.7.2
+pandas
+sentencepiece
+torchtyping
+sacrebleu==1.5.1
+lxml
+fairscale>=0.4.3
