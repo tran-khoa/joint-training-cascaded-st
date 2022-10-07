@@ -18,14 +18,17 @@ To cite this work, please use the following .bib:
 ```
 
 ## Requirements and Installation (adapted from fairseq)
-* [PyTorch](http://pytorch.org/) version >= 1.10.0
-* Python version >= 3.8
+* [PyTorch](http://pytorch.org/) version 1.7.1
+* torchaudio 0.7.2
+* Python version >= 3.7
 * **To install fairseq** and develop locally:
 
 ``` bash
 git clone https://github.com/tran-khoa/joint-training-cascaded-st
-cd fairseq
+cd joint-training-cascaded-st
 pip install --editable ./
+cd projects/speech_translation
+pip install -r requirements.txt
 
 # on MacOS:
 # CFLAGS="-stdlib=libc++" pip install --editable ./
