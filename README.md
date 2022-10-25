@@ -6,7 +6,7 @@ based on [fairseq](https://github.com/facebookresearch/fairseq).
 ## Cite This Work
 To cite this work, please use the following .bib:
 ```
-@InProceedings{tran22:uniblock,
+@InProceedings{tran22:joint_training_cascaded_speech_translation,
 	author={Tran, Viet Anh Khoa and Thulke, David and Gao, Yingbo and Herold, Christian and Ney, Hermann},  	
 	title={Does Joint Training Really Help Cascaded Speech Translation?},  
 	booktitle={Conference on Empirical Methods in Natural Language Processing},
