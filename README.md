@@ -1,6 +1,6 @@
 # Does Joint Training Really Help Cascaded Speech Translation?
 
-This repository contains code for the paper "Does Joint Training Really Help Cascaded Speech Translation?" in [EMNLP 2022](https://2022.emnlp.org/),
+This repository contains code for the paper "Does Joint Training Really Help Cascaded Speech Translation?" ([arXiv](https://arxiv.org/abs/2210.13700)) in [EMNLP 2022](https://2022.emnlp.org/),
 based on [fairseq](https://github.com/facebookresearch/fairseq).
 
 ## Cite This Work
